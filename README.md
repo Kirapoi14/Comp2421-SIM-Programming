@@ -1,2 +1,3 @@
-# Comp2421-MIPS
-This repository practices basic knowledge of Computer Architecture by using the MIPS assembly language.
+# Comp2421-SIM-Programming
+1. MIPS assembly language programming about computer architecture
+2. Digital circuits implementation by using combinational logic
