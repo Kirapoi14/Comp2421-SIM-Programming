@@ -1,3 +1,3 @@
 # Comp2421-SIM-Programming
-1. MIPS assembly language programming about computer architecture
-2. Digital circuits implementation by using combinational logic
+1. MIPS assembly language programming about Computer Architecture
+2. Digital Circuits implementation by using combinational logic
